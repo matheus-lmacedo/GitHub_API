@@ -19,22 +19,13 @@ A simple web application that allows you to search for a GitHub user and retriev
 
 - Search for any GitHub user by username.
 - Fetch and display user data such as name, bio, followers, and repositories.
-- Responsive design for optimal use on both desktop and mobile devices.
 - Simple and interactive user interface with smooth user experience.
 
 ---
 
-## 📱 Responsive Design
+### 💻 Design Preview
 
-The application is designed to be responsive and adapt to various screen sizes, ensuring a smooth experience across devices.
-
-### 💻 Desktop Preview
-
-![Desktop Preview](./design/Desktop.gif)
-
-### 📱 Mobile Preview
-
-![Mobile Preview](./design/Mobile.gif)
+![Design Preview](./design/github_project.gif)
 
 ---
 
